@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 from datetime import datetime, timedelta
 from plyer import notification
 
-icon_path = plt.imread("bursa.ico")
+#icon_path = plt.imread("bursa.ico")
 
 notif_title = "PIATA SE VA DESCHIDE IN CURAND"
 
